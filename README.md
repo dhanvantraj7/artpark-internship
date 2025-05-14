@@ -15,11 +15,12 @@ Implementation of sensor fusion algorithms for IMU data processing, focusing on 
   - MATLAB
   - Arduino IDE
   - Visual Studio Code
+  - Python
   - Go Lang
 
 ## Key Features
 - IMU sensor data acquisition and processing
-- Implementation of Kalman Filter in multiple languages (C, MATLAB, Go)
+- Implementation of Kalman Filter in multiple languages (C, MATLAB, Python)
 - Extended Kalman Filter (EKF) implementation
 - Real-time data visualization
 - GPS integration
@@ -50,14 +51,3 @@ Implementation of sensor fusion algorithms for IMU data processing, focusing on 
 - Adaptive Kalman Filter
 - Particle Filter
 
-## Future Work
-- Motion tracking optimization
-- Enhanced noise parameter estimation
-- Real-time performance improvements
-- Integration with additional sensor types
-
-## License
-[Add License Information]
-
-## Contributors
-- Dhanvant Raj
